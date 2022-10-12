@@ -1,3 +1,7 @@
+Dashboard hosted with GitHub Pages at https://trustfractal.github.io/comply-soc2
+
+Pushes to the `main` branch will trigger a new build and deployment via GitHub Actions.
+
 # Trust Fractal GmbH Compliance Program
 
 This repository consolidates all documents related to the Trust Fractal GmbH Compliance Program.
